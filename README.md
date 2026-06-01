@@ -4,4 +4,4 @@
 
 ## How to Reach me
 - LinkedIn: https://www.linkedin.com/in/josephikogho
-- GitHub: 
+- GitHub: https://www.github.org/itsowute
